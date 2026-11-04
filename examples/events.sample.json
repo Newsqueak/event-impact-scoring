@@ -1,0 +1,7 @@
+{
+  "events": [
+    { "id": "GPT-6 Astra", "scores": [5,5,4,4,3,4,3], "amplifier": 6, "amp_tags": "T1" },
+    { "id": "NVIDIA", "scores": [4,4,5,5,3,3,3], "amplifier": 8, "amp_tags": "T1" },
+    { "id": "Manus/华为", "scores": [2,2,3,3,1,3,2], "amplifier": 0, "amp_tags": "" }
+  ]
+}
